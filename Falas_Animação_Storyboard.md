@@ -13,8 +13,6 @@
 11	POR FAVOR.
 12	*INICIANDO SISTEMAS 1 *
 13	*INICIANDO SISTEMAS 2 *
-
-
 14	O que aconteceu ?
 15 	Então, infelizmente pode ser o nosso futuro.				
 16 	mas por que ficaria assim?
@@ -30,7 +28,6 @@
 26 	Isso também nos afeta pois perceba com menos vida terrestre, temos a desertificação, que diminui a terra fertil, e torna o solo inadequado para a vida, com isso temos cada vez menos frutas, comidas e um ambiente bom para nossa saúde
 27	Mas não se desespere, pois ainda temos tempo de salvar o mundo, Lembre-se essa maquina pode prever o que irá acontecer
 28	Mas baseia em diferentes tipos de dados, venha vamos ver outro "futuro"
-
 29	UAU! bem melhor e mais bonito também
 30	Viu? Fique calmo ainda podemos mudar o mundo.
 31	Como?
@@ -42,7 +39,6 @@
 37	Viu? não se desespere mas não relaxe també, devemos cada vez mais conscientizar mais e mais.
 38 	Isso me alivia.
 39	Relaxe, vamos sair da simulação ou você vai ter um infarto.
-
 40	*Terminando sistemas 1*
 41	*Terminando sistemas 2*
 42	Então, todos nossos atos tem consequências, mesmo sem poderes temos grandes responsabilidades. 
