@@ -1,53 +1,53 @@
 # Falas numeradas do Storyboard e animação:
 
-1 	TIO TIO !
-2	calma ai garoto, desse jeito voce vai acabar se cansando.
-3	é que minha mae me mandou  vir falar com o senhor.
-4 	o que é aquilo lá dentro !?!?
-5	é uma maquina que eu inventei, quer ver?
-6	LÓGICO! MUITO OBRIGADO.
-7	 Então pra que ela serve? 
-8	É uma maquina de previsão para o futuro,
-9	Basicamente podemos prever o que irá acontecer no futuro.
-10	Quer experimentar ela ?
-11	POR FAVOR.
-12	*INICIANDO SISTEMAS 1 *
-13	*INICIANDO SISTEMAS 2 *
-14	O que aconteceu ?
-15 	Então, infelizmente pode ser o nosso futuro.				
-16 	mas por que ficaria assim?
-17	Isso aconteceu devido a muitos fatores
-18 	Como por exemplo: destruição do ambiente terrestre para construções
-19	Agricultura sem manejo, queimadas, poluição do solo e da água, Mineração predatória.
-20	Quanta coisa
-21	Um momento, ainda não terminei, então tudo isso pode causar muitos problemas, veja por exemplo:
-22 	tivemos cada vez menos animais e com isso mais trafico de animais
-23	veja aquele caso por exemplo
-24	Dois contrabandistas traficando um elefante, algo que ja existia nos dias atuais
-25	Mas com a falta de vida terrestre, diversas especies começaram a sumir, ou ter seu numero de individuos sumindo
-26 	Isso também nos afeta pois perceba com menos vida terrestre, temos a desertificação, que diminui a terra fertil, e torna o solo inadequado para a vida, com isso temos cada vez menos frutas, comidas e um ambiente bom para nossa saúde
-27	Mas não se desespere, pois ainda temos tempo de salvar o mundo, Lembre-se essa maquina pode prever o que irá acontecer
-28	Mas baseia em diferentes tipos de dados, venha vamos ver outro "futuro"
-29	UAU! bem melhor e mais bonito também
-30	Viu? Fique calmo ainda podemos mudar o mundo.
-31	Como?
-32	Então, devemos cuidar cada vez mais do nosso planeta, por exemplo: 
-33	Devemos proteger as especies de animais, para isso devemos apoiar cada vez mais causas ambientais, ONGs e projetos sociais.
-34	Para preservar a vida terrestre, devemos diminuir o consumo e conscientizar as pessoas sobre o consumismo, muitas grandes empresas estão poluindo cada vez mais o nosso ambiente e temos que agir rapido.
-35	Para salvar o nosso planeta nos precisamos da colaboração de todos, não podemos pensar apenas em nós mesmos e fazer apenas a nossa parte. Isso pode nós ajudar mas não salva o mundo!
-36	Para isso devemos conscientizar e educar cada vez mais as pessoas, Olhe quantos animais podemos salvar e quanto da fauna podemos salvar.
-37	Viu? não se desespere mas não relaxe també, devemos cada vez mais conscientizar mais e mais.
-38 	Isso me alivia.
-39	Relaxe, vamos sair da simulação ou você vai ter um infarto.
-40	*Terminando sistemas 1*
-41	*Terminando sistemas 2*
-42	Então, todos nossos atos tem consequências, mesmo sem poderes temos grandes responsabilidades. 
-43	Então o que você aprendeu ? 
-44	Eu aprendi que cada vez mais temos que preservar a vida, e que para isso devemos cuidar cada vez mais do nosso planeta, fazendo um consumo consciente
-45	Também devemos reciclar cada vez mais, e apoair ONGs e causas sociais, pois elas são que irão nos ajudar a cuidar cada vez mais do nosso planeta.
-46	E que não adianta fazermos apenas a nossa parte devemos conscientizar as pessoas a nossa volta também	
-47	Enfim, muito obrigado por tudo tio, tudo isso foi extremamente importante para mim
-48	Eu que agradeço, pois quanto mais pessoas saberem o que poide acontecer mais ajuda teremos.
-49	Obrigado mesmo tio a maquina é incrivel muito obrigado tchau.
-50	Tchau tio, fique bem e muito obrigado pelos ensinamentos.
-51	Tchau fique bem, muito obrigado pela visita e não se esqueça de reciclar, consumir consciente e consientizar a todos.
+	1 	TIO TIO !
+	2	calma ai garoto, desse jeito voce vai acabar se cansando.
+	3	é que minha mae me mandou  vir falar com o senhor.
+	4 	o que é aquilo lá dentro !?!?
+	5	é uma maquina que eu inventei, quer ver?
+	6	LÓGICO! MUITO OBRIGADO.
+	7	 Então pra que ela serve? 
+	8	É uma maquina de previsão para o futuro,
+	9	Basicamente podemos prever o que irá acontecer no futuro.
+	10	Quer experimentar ela ?
+	11	POR FAVOR.
+	12	*INICIANDO SISTEMAS 1 *
+	13	*INICIANDO SISTEMAS 2 *
+	14	O que aconteceu ?
+	15 	Então, infelizmente pode ser o nosso futuro.				
+	16 	mas por que ficaria assim?
+	17	Isso aconteceu devido a muitos fatores
+	18 	Como por exemplo: destruição do ambiente terrestre para construções
+	19	Agricultura sem manejo, queimadas, poluição do solo e da água, Mineração predatória.
+	20	Quanta coisa
+	21	Um momento, ainda não terminei, então tudo isso pode causar muitos problemas, veja por exemplo:
+	22 	tivemos cada vez menos animais e com isso mais trafico de animais
+	23	veja aquele caso por exemplo
+	24	Dois contrabandistas traficando um elefante, algo que ja existia nos dias atuais
+	25	Mas com a falta de vida terrestre, diversas especies começaram a sumir, ou ter seu numero de individuos sumindo
+	26 	Isso também nos afeta pois perceba com menos vida terrestre, temos a desertificação, que diminui a terra fertil, e torna o solo inadequado para a vida, com isso temos cada vez menos frutas, comidas e um ambiente bom para nossa saúde
+	27	Mas não se desespere, pois ainda temos tempo de salvar o mundo, Lembre-se essa maquina pode prever o que irá acontecer
+	28	Mas baseia em diferentes tipos de dados, venha vamos ver outro "futuro"
+	29	UAU! bem melhor e mais bonito também
+	30	Viu? Fique calmo ainda podemos mudar o mundo.
+	31	Como?
+	32	Então, devemos cuidar cada vez mais do nosso planeta, por exemplo: 
+	33	Devemos proteger as especies de animais, para isso devemos apoiar cada vez mais causas ambientais, ONGs e projetos sociais.
+	34	Para preservar a vida terrestre, devemos diminuir o consumo e conscientizar as pessoas sobre o consumismo, muitas grandes empresas estão poluindo cada vez mais o nosso ambiente e temos que agir rapido.
+	35	Para salvar o nosso planeta nos precisamos da colaboração de todos, não podemos pensar apenas em nós mesmos e fazer apenas a nossa parte. Isso pode nós ajudar mas não salva o mundo!
+	36	Para isso devemos conscientizar e educar cada vez mais as pessoas, Olhe quantos animais podemos salvar e quanto da fauna podemos salvar.
+	37	Viu? não se desespere mas não relaxe també, devemos cada vez mais conscientizar mais e mais.
+	38 	Isso me alivia.
+	39	Relaxe, vamos sair da simulação ou você vai ter um infarto.
+	40	*Terminando sistemas 1*
+	41	*Terminando sistemas 2*
+	42	Então, todos nossos atos tem consequências, mesmo sem poderes temos grandes responsabilidades. 
+	43	Então o que você aprendeu ? 
+	44	Eu aprendi que cada vez mais temos que preservar a vida, e que para isso devemos cuidar cada vez mais do nosso planeta, fazendo um consumo consciente
+	45	Também devemos reciclar cada vez mais, e apoair ONGs e causas sociais, pois elas são que irão nos ajudar a cuidar cada vez mais do nosso planeta.
+	46	E que não adianta fazermos apenas a nossa parte devemos conscientizar as pessoas a nossa volta também	
+	47	Enfim, muito obrigado por tudo tio, tudo isso foi extremamente importante para mim
+	48	Eu que agradeço, pois quanto mais pessoas saberem o que poide acontecer mais ajuda teremos.
+	49	Obrigado mesmo tio a maquina é incrivel muito obrigado tchau.
+	50	Tchau tio, fique bem e muito obrigado pelos ensinamentos.
+	51	Tchau fique bem, muito obrigado pela visita e não se esqueça de reciclar, consumir consciente e consientizar a todos.
